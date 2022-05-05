@@ -7,6 +7,6 @@ def sort(list):
                 list[j + 1] = temp
 
 
-list = [4, 5, 7, 75, 775, 567, 789, 654, 4321]
-sort(list)
-print(list)
+liste = [4, 5, 7, 75, 775, 567, 789, 654, 4321]
+sort(liste)
+print(liste)
