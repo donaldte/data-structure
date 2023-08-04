@@ -1,0 +1,79 @@
+git token: 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
+
+
+https://testdriven.io/blog/django-channels/
+
+#heroku docker
+0-:heroku container:login
+1-:docker build -f Dockerfile.prod -t registry.heroku.com/hooyia/web .
+2-:docker push registry.heroku.com/hooyia/web:latest
+3-: heroku container:release web --app hooyia
+
+chercheurakldjaljd 2020@
+devtest405
+pbkdf2_sha256$260000$7dZvKnag6SEVNavTcmAxfU$h9ZQHS5Utr7jnSLQqJuE17Fl1V02Y3U6nO7qjBOzHCU=
+pbkdf2_sha256$260000$Ve8R1aZJSKelGt621wtHl1$f71NNVSKaLQ7BKcR7welgzJxlxFoORcoH7dNLxJNp+0=
+
+python institute: djaoumlachercheur@%galsM
+
+#learn react api 
+grafickart
+
+
+https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+
+informaticien: Gerad berry 
+
+heroku pass: cherchercherdonaldsaurelletedom2020M@gsas89
+namesheap pass: donadldes78*^dhjsuttotesttahs254
+DONALDTEODOM
+
+linkedin:fsm8X9zbDP8rg3J
+
+easyschoolcameroon@gmail.com: dojecodepou$9ea9()djth345
+devtest405@gmail.com pass:7GsUB8CtB2Y3KMd pour les test sur easyschool
+
+test easyschool: tedomcher4@gmar
+discord:dntdont459)__=jdfs;;dfkf4
+
+beablessingemail: plabessgj4532)(-dfsf#
+
+https://aws.amazon.com/s3/
+name:danald
+pass: cherkghgkddal$535()-8&&^334ds!
+ https://274889297101.signin.aws.amazon.com/console
+ 
+ donaldprogrammeur.com: 9MnttrKMzKaSNcsd@#
+ chooyia email: v9xHZAuNb5LLj52
+ papayl hooyia: tdjhta564lshyIGHgsdf
+ paypaq nout  : tLZ94KzBu(%6XbP
+ cinetpay: 59@QHTJK6CBQxRv
+ 
+ TO GET INTERNSHIP
+ https://www.theforage.com/
+ 
+ to learn django gruardian
+
+
+te        Qre65EwKN8PJ8tQ
+
+
+payhip:BMGtAUDzs5PkGvR
+noutchogouindonald:cherks545aj6hsjl
+chercheur34556 compte
+algolia: mAxBp65i7X4EwB2
+heroku chooyia: mercedesdefransaca6sdiTre456hsdvTD/
+
+
+pub   rsa3072 2022-12-02 [SC] [expires: 2024-12-01]
+      07A245019C0D64015020224C6E007AC1D62DD1DE
+uid                      donald <donaldtedom0@gmail.com>
+sub   rsa3072 2022-12-02 [E] [expires: 2024-12-01]
+BOOTSTRAP STUDIO: 04e7d0aa61e5c9697f33ca4989710e3eb2b78ea4
+
+donald programmeur : 
+9MnttrKMzKaSNcsd@#
+EMAIL:YOUR EMAIL ADDESS
+PASSWORD:Jd&NsweWR@o&MW5Gy^x7bAQl
+
+whiZqfXlMSpl$Cp&a0R3ofD0: addondonaldprogrammeur web app
